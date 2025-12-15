@@ -22,7 +22,3 @@ This project connects Telegram with Gemini LLM through n8n automation workflows,
 - Students asking subject‑specific questions (math, science, programming, etc.)
 - Teachers automating FAQ responses
 - Learning platforms offering real‑time AI tutoring
-
-
-Would you like me to also draft a diagram of the workflow (Telegram → n8n → Gemini → Telegram) so recruiters or collaborators can quickly visualize how your system works?
-
